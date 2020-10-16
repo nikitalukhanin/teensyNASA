@@ -9,7 +9,10 @@ https://www.arduino.cc/en/Main/Software
 
 https://github.com/tonton81/FlexCAN_T4
 
-https://www.chiefdelphi.com/t/programming-for-talonsrx-without-roborio/144921
+http://www.ctr-electronics.com/talon-srx.html#product_tabs_technical_resources
+
+http://www.ctr-electronics.com/control-system/motor-control/talon-fx.html#product_tabs_technical_resources
+
 
 Hardware
 
