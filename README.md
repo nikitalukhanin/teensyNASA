@@ -6,8 +6,8 @@ This repo contains the code for two teensy 4.0 boards (or any arduino) to commun
 - 2 Teensy 4.0
 - breadboard
 - stepper motor
-- [G251X Digital Step Drive] (https://www.geckodrive.com/g251x-digital-stepper-drive.html)
-- [Falcon 500] (https://www.vexrobotics.com/217-6515.html#:~:text=The%20Falcon%20500%2C%20powered%20by,the%20FIRST%C2%AE%20Robotics%20Competition.)
+- [G251X Digital Step Drive](https://www.geckodrive.com/g251x-digital-stepper-drive.html)
+- [Falcon 500](https://www.vexrobotics.com/217-6515.html#:~:text=The%20Falcon%20500%2C%20powered%20by,the%20FIRST%C2%AE%20Robotics%20Competition.)
 - 120V AC to 12V DC converter
 - Arduino IDE
 
