@@ -11,7 +11,7 @@ This repo contains the code for two teensy 4.0 boards (or any arduino) to commun
 - 120V AC to 12V DC converter
 - Arduino IDE
 
-##Libraries
+## Libraries
 - [Wire (I2C)](https://www.arduino.cc/en/reference/wire)
 - [Speedy Stepper](https://github.com/Stan-Reifel/SpeedyStepper)
 - [Servo](https://github.com/arduino-libraries/Servo)
